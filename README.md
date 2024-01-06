@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Absar Ahmad</h1>
 <h3 align="center">A passionate Full Stack Web developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently working **Node Js, React JS, Figma, XD, PSD, BootStrap, JS, Metrial UI**
 
 - 💬 Ask me about **React, Bootstrap, Javascript**
 
